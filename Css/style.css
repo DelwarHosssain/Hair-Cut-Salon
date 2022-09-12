@@ -1,0 +1,26 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: #2D394B;
+}
+
+.nav-link:hover{
+    font-size: 20px;
+    transition: font-size 2s ease;
+    border: solid #0DCAF0 1px;
+    
+}
+
+
+@media (min-width: 992px) {
+    .navbar-text1{
+        display: none;
+    }
+}
+@media (max-width: 992px) {
+    .navbar-text{
+        display: none;
+    }
+}
