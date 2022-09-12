@@ -7,7 +7,7 @@ body{
 }
 
 .nav-link:hover{
-    font-size: 20px;
+    font-size: 25px;
     transition: font-size 2s ease;
     border: solid #0DCAF0 1px;
     
